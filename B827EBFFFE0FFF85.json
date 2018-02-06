@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE0FFF85",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.48225,
+    "ref_longitude": -3.189177,
+    "ref_altitude": 11,
+    "contact_email": "demmer@servario-networks.de",
+    "description": "ttn-servario-bent118"
+  }
+}
